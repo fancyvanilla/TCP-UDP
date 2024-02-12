@@ -4,5 +4,4 @@
 .idea/
 .Sockets.iml
 /out/
-ignore-me
-ignore/
+.gitignore
